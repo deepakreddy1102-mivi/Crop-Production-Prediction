@@ -1,0 +1,4 @@
+.ipynb_checkpoints/ 
+__pycache__/ 
+models/random_forest_tuned.pkl 
+data/FAOSTAT_raw.csv 
